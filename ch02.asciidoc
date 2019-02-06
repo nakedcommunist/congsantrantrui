@@ -1,0 +1,11 @@
+== Chương 2
+
+include::ch02/appeal_communism.asciidoc[]
+
+include::ch02/case_communism.asciidoc[]
+
+include::ch02/philosophy_nature.asciidoc[]
+
+include::ch02/consciousness_mind.asciidoc[]
+
+include::ch02/critique_philosophy.asciidoc[]

@@ -1,0 +1,13 @@
+== Chương 1
+
+include::ch01/communism_founder.asciidoc[]
+
+include::ch01/family_karlmarx.asciidoc[]
+
+include::ch01/first_international.asciidoc[]
+
+include::ch01/book_change_world.asciidoc[]
+
+include::ch01/closing_years.asciidoc[]
+
+include::ch01/epilogue.asciidoc[]

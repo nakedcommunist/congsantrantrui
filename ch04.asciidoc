@@ -1,0 +1,23 @@
+== Chương 4
+
+include::ch04/critique.asciidoc[]
+
+include::ch04/byproduct.asciidoc[]
+
+include::ch04/interpretation_history.asciidoc[]
+
+include::ch04/explanation_society.asciidoc[]
+
+include::ch04/origin_state.asciidoc[]
+
+include::ch04/religion.asciidoc[]
+
+include::ch04/theory_moral.asciidoc[]
+
+include::ch04/theory_class_struggle.asciidoc[]
+
+include::ch04/dictatorship.asciidoc[]
+
+include::ch04/full_communism.asciidoc[]
+
+include::ch04/negative_approach.asciidoc[]

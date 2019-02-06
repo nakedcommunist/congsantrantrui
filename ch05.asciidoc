@@ -1,0 +1,5 @@
+== Chương 5
+
+include::ch05/rise_revolutionary.asciidoc[]
+
+include::ch05/maxism_come_to_rusia.asciidoc[]

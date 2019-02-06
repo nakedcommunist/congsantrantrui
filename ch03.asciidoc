@@ -1,0 +1,21 @@
+== Chương 3
+
+include::ch03/solution_world_problem.asciidoc[]
+
+include::ch03/interpretation_history.asciidoc[]
+
+include::ch03/human_progress_explained.asciidoc[]
+
+include::ch03/theory_private_property.asciidoc[]
+
+include::ch03/theory_origin_state.asciidoc[]
+
+include::ch03/theory_origin_religion.asciidoc[]
+
+include::ch03/theory_origin_moral.asciidoc[]
+
+include::ch03/action_plan.asciidoc[]
+
+include::ch03/dictatorship.asciidoc[]
+
+include::ch03/under_fullcommunism.asciidoc[]
