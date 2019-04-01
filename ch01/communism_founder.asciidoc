@@ -63,14 +63,14 @@ Người nhân viên này sau đó đã cho vào bản báo cáo chính thức n
 rối, lúng túng của mình liên quan tới Marx:
 
 [quote]
-Marx sống trong một nơi tồi tệ nhất, do đó là rẻ nhất trong Luân Đôn. Ông ta có hai phòng.
-Phòng khách nhìn ra phố, phòng ngủ ở đằng sau. Chẳng có gì một thứ gì sạch
+Marx sống trong một nơi tồi tệ và rẻ tiền nhất trong Luân Đôn. Căn hộ có hai phòng,
+phòng khách nhìn ra phố, phòng ngủ ở đằng sau. Chẳng có gì một thứ gì sạch
 sẽ hay đồ đạc đáng kể gì trong phòng, mọi thứ bị gãy, rách nát và tả tơi, với lớp
 bụi dày phủ khắp và sự bất hạnh hiển diện khắp mọi nơi.
 Ở giữa phòng khách có một cái bàn rộng, lỗi mốt được sơn dầu. Trên mặt bàn có một vài
-bản thảo, sách và báo, đồ chơi trẻ , giỏ khâu vá của vợ, cốc với vành bị vỡ, vài
-cái thìa bẩn, dao, dĩa, đèn và mực viết, con lật đật, một vài tẩu thuốc Hà Lan,
-tro thuốc lá, tất cả thành một đống trên cùng cái bàn...Nhưng những thứ đó chẳng
+bản thảo, sách và báo, đồ chơi trẻ, giỏ khâu vá của vợ, cốc bị vỡ vành, vài
+cái thìa bẩn, dao dĩa, đèn và mực viết, con lật đật, một vài tẩu thuốc Hà Lan,
+tàn thuốc lá, tất cả thành một đống trên cùng cái bàn...Nhưng những thứ đó chẳng
 làm Marx hay vợ xấu hổ. Bạn nhận được những sự thân thiện và chân thành nhất từ
 việc mời hút tẩu, thuốc lá và bất kể những thứ gì có thể xảy ra. Cuối cùng
 là cuộc nói chuyện thông minh và thú vị nảy sinh làm sửa đổi tất cả những vấn đề
@@ -79,18 +79,18 @@ thiếu sót trong nước. footnote:[Wilson, Edmund, To The Finland Station, pp
 Vừa rồi chúng ra được giới thiệu một trong những nhân vật kịch tính nhất trải dài
 qua các trang sử trong suốt thế kỉ 19. Và là một người có tác động ảnh hướng đến
 sự chết chóc nhiều hơn là sự sống. Những người viết tiểu sử sẽ phải đánh vật với
-những bí ẩn của cuộc đời Marx. Tại một thời điểm Marx sẽ được gọi là "thiên tài
-vĩ đại của thời đại" nhưng sau đó các họ trò của ông ấy sẽ cảm thấy bị buộc phải
-gọi ông ta là "con người bạo lực, nóng giận gây tranh cãi, một kẻ độc tài và
+những bí ẩn của cuộc đời Marx. Tại một thời điểm Marx sẽ được gọi là "`thiên tài
+vĩ đại của thời đại`" nhưng sau đó các họ trò của ông ấy sẽ cảm thấy bị buộc phải
+gọi ông ta là "`con người bạo lực, nóng giận gây tranh cãi, một kẻ độc tài và
 quấy rối có mối ác cảm với thế giới và luôn lo sợ rằng mình không thể khẳng định
-được quyền lực ưu thế tối cao".footnote:[Ruhle, Otto, Karl Marx, pp. 209-308]
+được quyền lực ưu thế tối cao`".footnote:[Ruhle, Otto, Karl Marx, pp. 209-308]
 
 Những sự mâu thuẫn này tạo ra động lực dâng trào mạnh mẽ trong mỗi con người, điều
 mà được tìm thấy khi biểu hiện ra bên ngoài một cách hỗn loạn trong tính cách
 của Marx.
 
 [#img-karlmarx]
-.Nếu như chúng ta có thể hàn gắn tâm hồn cùng nhau và với sự khinh miệt tôi sẽ quẳng gang tay vào mặt thế giới, sau đó tôi sẽ bước qua đống đổ nát của Đấng Sáng Tạo
+.Nếu như chúng ta có thể hàn gắn tâm hồn, tôi sẽ quẳng gang tay vào mặt thế giới với sự khinh miệt, sau đó tôi sẽ bước qua đống đổ nát của Đấng Sáng Tạo
 image::https://dl.dropboxusercontent.com/s/48omlgpwfft1kb3/marx.png[Marx, 200, 300]
 
 === Thời thơ ấu của Karl Marx
