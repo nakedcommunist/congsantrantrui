@@ -81,7 +81,17 @@ Ba con người này sẽ ném một quốc gia vĩ đại vào vòng xoáy bạ
 mạng và lúc đó họ sẽ được coi như là những bà mụ đỡ đẻ giúp cho ra đời một thể
 chế độc tài Cộng sản đầu tiên trên thế giới.
 
+[.float-group]
+--
+
+[.left]
 
 [#img-lenin]
-.Nikolai Lenin, nhà độc tài Cộng sản đầu tiên: "Những người Marxist chưa bao giờ quên rằng bạo lực chăc chắn sẽ đi kèm với sự sụp đổ của chủ nghĩa tư bản...và của ngày sinh chủ nghĩa Xã hội
-image::https://dl.dropboxusercontent.com/s/15yjnawuzv7ozdi/lenin.png[Lenin, 200, 300]
+.Nikolai Lenin, nhà độc tài Cộng sản đầu tiên
+image::15yjnawuzv7ozdi/lenin.png[Lenin, align="center", pdfwidth=100, pdfheight=150, width=200, height=300]
+
+[quote, Lenin]
+Những người Marxist chưa bao giờ quên rằng bạo lực chắc chắn sẽ đi kèm với sự
+sụp đổ của chủ nghĩa tư bản...và của ngày sinh chủ nghĩa xã hội
+
+--

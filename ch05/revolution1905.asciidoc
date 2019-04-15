@@ -135,4 +135,18 @@ Lenin luôn có chỗ để dùng những con người có tính cách như vậ
 được Lenin kết nạp ngay vào đội ngũ của mình.
 
 Những sự việc trên đưa chúng ta đến một nhân cách quan trọng thứ ba, một người nổi
-bật trong phong trào cách mạng ở Nga - Joseph Stalin.
+bật trong phong trào cách mạng ở Nga - *Joseph Stalin*
+
+[.float-group]
+--
+
+[.left]
+
+.Joseph Stalin người Bolshevik trẻ tuổi
+image::8rqefy9rnokyevr/stalin.png[Stalin,float="left",align="center", pdfwidth=100, pdfheight=150, width=200, height=300]
+
+[quote, Joseph Stalin]
+Chọn lấy một nạn nhân, lên kế hoạch chi tiết, đóng đinh vào sự trả thù, lên giường
+đi ngủ...không có gì có thể ngọt ngào hơn trên trái đất này.
+
+--

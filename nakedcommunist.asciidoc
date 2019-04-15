@@ -3,6 +3,7 @@ W.Cleon Skousen
 
 :sectnums!:
 :sectnumlevels: 5
+:imagesdir: https://dl.dropboxusercontent.com/s/
 
 include::preface.asciidoc[]
 

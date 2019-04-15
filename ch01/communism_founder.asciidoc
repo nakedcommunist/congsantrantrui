@@ -89,9 +89,22 @@ Những sự mâu thuẫn này tạo ra động lực dâng trào mạnh mẽ tr
 mà được tìm thấy khi biểu hiện ra bên ngoài một cách hỗn loạn trong tính cách
 của Marx.
 
+[.float-group]
+
+--
+
+[.left]
+
 [#img-karlmarx]
-.Nếu như chúng ta có thể hàn gắn tâm hồn, tôi sẽ quẳng gang tay vào mặt thế giới với sự khinh miệt, sau đó tôi sẽ bước qua đống đổ nát của Đấng Sáng Tạo
-image::https://dl.dropboxusercontent.com/s/48omlgpwfft1kb3/marx.png[Marx, 200, 300]
+.Karl Marx
+image::48omlgpwfft1kb3/marx.png[Marx, align="center", pdfwidth=100, pdfheight=150, width=200, height=300]
+
+[quote, Karl Marx]
+Nếu như chúng ta có thể hàn gắn tâm hồn, tôi sẽ quẳng gang tay vào mặt thế giới
+với sự khinh miệt, sau đó tôi sẽ bước qua đống đổ nát của Đấng Sáng Tạo.
+
+--
+
 
 === Thời thơ ấu của Karl Marx
 
@@ -265,9 +278,20 @@ chóng biến mất, tan chảy như những bông tuyết. footnote:[Ruhle, Ott
 
 Tất cả những thứ này mang chúng ta đến với người bạn thân duy nhất Marx từng có
 -- *Friedrich Engels*.
+
+[.float-group]
+--
+
+[.left]
+
 [#img-engels]
-.Người cộng tác với Marx phát triển lý thuyết cộng sản:"Chúng ta không hứa hẹn bất kì sự tự do hay dân chủ nào."
-image::https://dl.dropboxusercontent.com/s/p2gpeidto1gc1ez/engels.png[Engels, 200, 300]
+.Người cộng tác với Marx phát triển lý thuyết cộng sản
+image::p2gpeidto1gc1ez/engels.png[Engels, align="center", pdfwidth=100, pdfheight=150, width=200, height=300]
+
+[quote, Engels]
+Chúng ta không hứa hẹn bất kì sự tự do hay dân chủ nào
+
+--
 
 === Friedrich Engels
 
