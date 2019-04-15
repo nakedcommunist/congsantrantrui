@@ -11,3 +11,6 @@ include::ch05/bolsheviks.asciidoc[]
 include::ch05/trotsky.asciidoc[]
 
 include::ch05/revolution1905.asciidoc[]
+
+include::ch05/stalin.asciidoc[]
+ 
