@@ -241,6 +241,10 @@ toc:
     #content: ". "
     font_color: a9a9a9
     #levels: 2 3
+
+footnotes:
+  font_size: $base_font_size_small
+  
 # NOTE in addition to footer, header is also supported
 footer:
   font_size: $base_font_size_small
