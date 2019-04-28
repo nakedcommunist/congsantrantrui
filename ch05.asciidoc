@@ -15,3 +15,7 @@ include::ch05/revolution1905.asciidoc[]
 include::ch05/stalin.asciidoc[]
 
 include::ch05/criminal_activities.asciidoc[]
+
+include::ch05/stalin_union_organizer.asciidoc[]
+
+include::ch05/role_russia_WWI.asciidoc[]
