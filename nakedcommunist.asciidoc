@@ -1,5 +1,7 @@
 = CỘNG SẢN TRẦN TRỤI
 W.Cleon Skousen
+v1.0, November 1, 1958
+
 
 :sectnums!:
 :sectnumlevels: 5
