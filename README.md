@@ -8,7 +8,7 @@ Cuốn sách nguyên bản tiếng Anh có thể được tìm thấy tại đâ
 https://www.amazon.com/Naked-Communist-Exposing-Communism-Restoring/dp/1545402159
 
 Bản tiếng Việt đọc online
-[tại đây:](https://nakedcommunist.github.io/congsantrantrui/nakedcommunist.html)  
+[tại đây](https://nakedcommunist.github.io/congsantrantrui/nakedcommunist.html)  
 
 ## Đôi lời từ người dịch
 
@@ -37,7 +37,7 @@ truyền thống bị thay thế bằng cái gọi là "đạo đức cách mạ
 Cuốn sách này không vì mục đích lợi nhuận, hy vọng tất cả mọi người có thể đóng góp, sửa
 chữa, phản hồi cho phần dịch thuật. Với cá nhân tôi không phải là người dịch thuật
 chuyên nghiệp, sự đóng góp của cộng đồng mới là giá trị cốt lõi để bản dịch được
-trau chuốt, chỉn chu và chất lượng hơn. 
+trau chuốt, chỉn chu và chất lượng hơn.
 
 Shinnosuke Nakamoto  
 nakedcommunist@protonmail.com
