@@ -7,5 +7,9 @@ từ năm 1958.
 Cuốn sách nguyên bản tiếng Anh có thể được tìm thấy tại đây:  
 https://www.amazon.com/Naked-Communist-Exposing-Communism-Restoring/dp/1545402159
 
+Bản tiếng Việt đọc online tại đây:  
+[Cộng Sản Trần Trụi](https://nakedcommunist.github.io/congsantrantrui/nakedcommunist.html)  
+
+
 Shinnosuke Nakamoto  
 nakedcommunist@protonmail.com
