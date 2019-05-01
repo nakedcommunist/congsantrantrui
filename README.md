@@ -4,8 +4,12 @@
 [Cleon Skousen](https://en.wikipedia.org/wiki/W._Cleon_Skousen) được viết
 từ năm 1958.
 
-Cuốn sách nguyên bản tiếng Anh có thể được tìm thấy tại đây:
+Cuốn sách nguyên bản tiếng Anh có thể được tìm thấy tại đây:  
 https://www.amazon.com/Naked-Communist-Exposing-Communism-Restoring/dp/1545402159
 
-Shinnosuke Nakamoto
+Bản tiếng Việt đọc online tại đây:  
+[Cộng Sản Trần Trụi](https://nakedcommunist.github.io/congsantrantrui/nakedcommunist.html)  
+
+
+Shinnosuke Nakamoto  
 nakedcommunist@protonmail.com

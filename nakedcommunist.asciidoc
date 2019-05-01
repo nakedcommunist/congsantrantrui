@@ -1,8 +1,11 @@
 = CỘNG SẢN TRẦN TRỤI
 W.Cleon Skousen
+v1.0, November 1, 1958
+
 
 :sectnums!:
 :sectnumlevels: 5
+:imagesdir: https://dl.dropboxusercontent.com/s/
 
 include::preface.asciidoc[]
 
@@ -17,3 +20,5 @@ include::ch03.asciidoc[]
 include::ch04.asciidoc[]
 
 include::ch05.asciidoc[]
+
+include::ch06.asciidoc[]

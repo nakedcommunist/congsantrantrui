@@ -12,9 +12,9 @@ cứu chủ nghĩa Cộng sản có thể trả lời những câu hỏi sau:
 
 ****
 
-. Tại sao những học giả Marxist gọi người sáng lập của họ là "thiên tài" nhưng không
-thừa nhận thẳng thắn rằng Marx là người "ưa bạo lực, hay nóng giận, gây gổ tranh cãi,
-một kẻ độc tài, và là kẻ quấy rồi"?
+. Tại sao những học giả Marxist gọi người sáng lập của họ là "`thiên tài`" nhưng không
+thừa nhận thẳng thắn rằng Marx là người "`ưa bạo lực, hay nóng giận, gây gổ tranh cãi,
+một kẻ độc tài, và là kẻ quấy rồi`"?
 . Marx là người được giáo dục tốt? Quốc tịch của ông ta là gì? Phần lớn các bài viết
 về giải phóng cách mạng được làm ở đâu?
 . Làm thế nào mà Marx chưa bao giờ có được nghề nghiệp chuyên nghiệp, một văn phòng
@@ -63,14 +63,14 @@ Người nhân viên này sau đó đã cho vào bản báo cáo chính thức n
 rối, lúng túng của mình liên quan tới Marx:
 
 [quote]
-Marx sống trong một nơi tồi tệ nhất, do đó là rẻ nhất trong Luân Đôn. Ông ta có hai phòng.
-Phòng khách nhìn ra phố, phòng ngủ ở đằng sau. Chẳng có gì một thứ gì sạch
+Marx sống trong một nơi tồi tệ và rẻ tiền nhất trong Luân Đôn. Căn hộ có hai phòng,
+phòng khách nhìn ra phố, phòng ngủ ở đằng sau. Chẳng có gì một thứ gì sạch
 sẽ hay đồ đạc đáng kể gì trong phòng, mọi thứ bị gãy, rách nát và tả tơi, với lớp
 bụi dày phủ khắp và sự bất hạnh hiển diện khắp mọi nơi.
 Ở giữa phòng khách có một cái bàn rộng, lỗi mốt được sơn dầu. Trên mặt bàn có một vài
-bản thảo, sách và báo, đồ chơi trẻ , giỏ khâu vá của vợ, cốc với vành bị vỡ, vài
-cái thìa bẩn, dao, dĩa, đèn và mực viết, con lật đật, một vài tẩu thuốc Hà Lan,
-tro thuốc lá, tất cả thành một đống trên cùng cái bàn...Nhưng những thứ đó chẳng
+bản thảo, sách và báo, đồ chơi trẻ, giỏ khâu vá của vợ, cốc bị vỡ vành, vài
+cái thìa bẩn, dao dĩa, đèn và mực viết, con lật đật, một vài tẩu thuốc Hà Lan,
+tàn thuốc lá, tất cả thành một đống trên cùng cái bàn...Nhưng những thứ đó chẳng
 làm Marx hay vợ xấu hổ. Bạn nhận được những sự thân thiện và chân thành nhất từ
 việc mời hút tẩu, thuốc lá và bất kể những thứ gì có thể xảy ra. Cuối cùng
 là cuộc nói chuyện thông minh và thú vị nảy sinh làm sửa đổi tất cả những vấn đề
@@ -79,19 +79,32 @@ thiếu sót trong nước. footnote:[Wilson, Edmund, To The Finland Station, pp
 Vừa rồi chúng ra được giới thiệu một trong những nhân vật kịch tính nhất trải dài
 qua các trang sử trong suốt thế kỉ 19. Và là một người có tác động ảnh hướng đến
 sự chết chóc nhiều hơn là sự sống. Những người viết tiểu sử sẽ phải đánh vật với
-những bí ẩn của cuộc đời Marx. Tại một thời điểm Marx sẽ được gọi là "thiên tài
-vĩ đại của thời đại" nhưng sau đó các họ trò của ông ấy sẽ cảm thấy bị buộc phải
-gọi ông ta là "con người bạo lực, nóng giận gây tranh cãi, một kẻ độc tài và
+những bí ẩn của cuộc đời Marx. Tại một thời điểm Marx sẽ được gọi là "`thiên tài
+vĩ đại của thời đại`" nhưng sau đó các họ trò của ông ấy sẽ cảm thấy bị buộc phải
+gọi ông ta là "`con người bạo lực, nóng giận gây tranh cãi, một kẻ độc tài và
 quấy rối có mối ác cảm với thế giới và luôn lo sợ rằng mình không thể khẳng định
-được quyền lực ưu thế tối cao".footnote:[Ruhle, Otto, Karl Marx, pp. 209-308]
+được quyền lực ưu thế tối cao`".footnote:[Ruhle, Otto, Karl Marx, pp. 209-308]
 
 Những sự mâu thuẫn này tạo ra động lực dâng trào mạnh mẽ trong mỗi con người, điều
 mà được tìm thấy khi biểu hiện ra bên ngoài một cách hỗn loạn trong tính cách
 của Marx.
 
+[.float-group]
+
+--
+
+[.left]
+
 [#img-karlmarx]
-.Nếu như chúng ta có thể hàn gắn tâm hồn cùng nhau và với sự khinh miệt tôi sẽ quẳng gang tay vào mặt thế giới, sau đó tôi sẽ bước qua đống đổ nát của Đấng Sáng Tạo
-image::https://dl.dropboxusercontent.com/s/48omlgpwfft1kb3/marx.png[Marx, 200, 300]
+.Karl Marx
+image::48omlgpwfft1kb3/marx.png[Marx, align="center", pdfwidth=100, pdfheight=150, width=200, height=300]
+
+[quote, Karl Marx]
+Nếu như chúng ta có thể hàn gắn tâm hồn, tôi sẽ quẳng gang tay vào mặt thế giới
+với sự khinh miệt, sau đó tôi sẽ bước qua đống đổ nát của Đấng Sáng Tạo.
+
+--
+
 
 === Thời thơ ấu của Karl Marx
 
@@ -130,11 +143,11 @@ nói của con. Hy vọng cha mẹ sẽ sớm mạnh khoẻ trở lại để co
 chặt cha mẹ trong vòng tay con, và thổ lộ với cha mẹ tất cả những gì trong lòng, con vẫn
 sẽ luôn mãi là đứa con trai yêu dấu của cha mẹ, Karl.
 
-Những biểu hiện thế này chắc hẳn đã làm cha Marx bối rối. Trong suổt sự nghiệp
-làm cha của mình, ông ta chưa bao giờ có thể tư vấn hay vượt qua được sự nóng nảy
+Những biểu hiện thế này chắc hẳn đã làm cha Marx bối rối. Trong suổt cuộc đời
+làm cha, ông ta chưa bao giờ có thể tư vấn hay tự vượt qua được sự nóng nảy
 của một đứa con trai mà không phải đột ngột bùng phát cảm xúc của mình. Những bức
 thư viết cho cha mẹ của Karl Marx thường xuyên ám chỉ cuộc cãi vã dữ dội giữa
-mình với cha mẹ; bức thư của cha mẹ thì phàn nàn về chủ nghĩa ích kỷ của Marx,
+mình với cha mẹ; bức thư của cha mẹ thì phàn nàn về thói ích kỷ của Marx,
 thiếu quan tâm đến gia đình, thường xuyên yêu cầu cung cấp tiền, và sự thô lỗ
 khiếm nhã của Marx khi không trả lời phần lớn các bức thư của họ.
 
@@ -220,7 +233,7 @@ cô con gái hấp dẫn, bình dị của một nhà quý tộc Đức sống t
 Marx. Trong 7 năm, Marx đã hợp tác cùng Jenny. Một trong những bức thư nói rõ rằng
 nếu như Jenny kết hôn với Marx, cô ấy sẽ trở thành vợ của nhà cách mạng.
 
-.Marx nói:
+
 [quote, Karl Marx]
 Jenny! Nếu chúng ta có thể hàn gắn tâm hồn lại cùng nhau, với sự khinh miệt anh
 sẽ quẳng đôi gang tay vào mặt thế giới, sau đó anh sẽ bước qua những đổ vỡ của
@@ -265,9 +278,20 @@ chóng biến mất, tan chảy như những bông tuyết. footnote:[Ruhle, Ott
 
 Tất cả những thứ này mang chúng ta đến với người bạn thân duy nhất Marx từng có
 -- *Friedrich Engels*.
+
+[.float-group]
+--
+
+[.left]
+
 [#img-engels]
-.Người cộng tác với Marx phát triển lý thuyết cộng sản:"Chúng ta không hứa hẹn bất kì sự tự do hay dân chủ nào."
-image::https://dl.dropboxusercontent.com/s/p2gpeidto1gc1ez/engels.png[Engels, 200, 300]
+.Người cộng tác với Marx phát triển lý thuyết cộng sản
+image::p2gpeidto1gc1ez/engels.png[Engels, align="center", pdfwidth=100, pdfheight=150, width=200, height=300]
+
+[quote, Engels]
+Chúng ta không hứa hẹn bất kì sự tự do hay dân chủ nào
+
+--
 
 === Friedrich Engels
 

@@ -7,3 +7,15 @@ include::ch05/maxism_come_to_rusia.asciidoc[]
 include::ch05/lenin.asciidoc[]
 
 include::ch05/bolsheviks.asciidoc[]
+
+include::ch05/trotsky.asciidoc[]
+
+include::ch05/revolution1905.asciidoc[]
+
+include::ch05/stalin.asciidoc[]
+
+include::ch05/criminal_activities.asciidoc[]
+
+include::ch05/stalin_union_organizer.asciidoc[]
+
+include::ch05/role_russia_WWI.asciidoc[]
