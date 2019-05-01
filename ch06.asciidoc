@@ -3,3 +3,5 @@
 include::ch06/russia_communist_world_power.asciidoc[]
 
 include::ch06/russia_revolution_1917.asciidoc[]
+
+include::ch06/destruction_democracy_plan.asciidoc[]
