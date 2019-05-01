@@ -33,10 +33,11 @@ hoại tôn giáo làm con người ác đi, dễ dàng phóng túng bản thân
 truyền thống bị thay thế bằng cái gọi là "đạo đức cách mạng" để làm chuẩn mực
 áp dụng cho tất cả...
 
-Cuốn sách này không vì mục đích lợi nhuận, tất cả mọi người có thể đóng góp, sửa
-chữa phần dịch thuật trên github. Với cá nhân tôi không phải là người dịch thuật
+Đây là cuốn sách thuộc thể loại khoa học chính trị nên có thể sẽ khó đọc và dịch thuật.
+Cuốn sách này không vì mục đích lợi nhuận, hy vọng tất cả mọi người có thể đóng góp, sửa
+chữa, phản hồi cho phần dịch thuật. Với cá nhân tôi không phải là người dịch thuật
 chuyên nghiệp, sự đóng góp của cộng đồng mới là giá trị cốt lõi để bản dịch được
-trau chuốt và chất lượng hơn
+trau chuốt, chỉn chu và chất lượng hơn. 
 
 Shinnosuke Nakamoto  
 nakedcommunist@protonmail.com
